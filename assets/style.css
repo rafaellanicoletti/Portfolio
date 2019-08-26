@@ -2,3 +2,16 @@ body{
     width: 100%;
 }
 
+footer{
+    background: #060754;
+    height: 300px;
+    color: white;
+    font-family: monospace;
+    align-content: center;
+    
+}
+
+h5{
+    font-size: 10pt;
+    
+}
